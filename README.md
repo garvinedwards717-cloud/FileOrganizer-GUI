@@ -1,6 +1,8 @@
 
 # File Organizer GUI
 
+[![Download](https://img.shields.io/badge/Download-Executable-blue)](../../releases)
+
 A Python desktop application that automatically organizes files into categorized folders (Images, Videos, Documents, Audio, etc.) using a simple graphical interface.
 
 The tool can preview file organization, automatically sort files, monitor folders in real-time, and undo previous actions.
