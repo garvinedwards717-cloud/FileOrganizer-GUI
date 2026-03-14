@@ -21,7 +21,21 @@ The tool can preview file organization, automatically sort files, monitor folder
 * Packaged as a standalone Windows executable
 
 ---
+## 📸 Screenshots
 
+<p align="center">
+
+<img src="screenshots/main_gui.png" width="45%">
+<img src="screenshots/monitoring_mode.png" width="45%">
+
+</p>
+
+<p align="center">
+
+<img src="screenshots/organize.png" width="45%">
+<img src="screenshots/undo_results.png" width="45%">
+
+</p>
 
 ---
 
