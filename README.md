@@ -68,7 +68,7 @@ The tool can preview file organization, automatically sort files, monitor folder
 Clone the repository:
 
 ```
-git clone https://github.com/garvinedwards717-cloud/FileOrganizer-GUI.git
+git clone https://github.com/AutoForg-atd/FileOrganizer-GUI.git
 ```
 
 Navigate into the project folder:
@@ -155,9 +155,9 @@ A standalone Windows executable will be available in the **Releases** section.
 
 ## Author
 
-Garvin Edwards
+AutoForge
 
 GitHub:
-https://github.com/garvinedwards717-cloud
+https://github.com/AutoForge-atd
 
 ---
